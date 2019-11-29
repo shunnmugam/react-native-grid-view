@@ -8,7 +8,7 @@ This component allows to display a grid/collection of items with more than one i
 
 ## Getting started
 
-1. `npm install react-native-grid-view`
+1. `npm install react-native-grid-view-component`
 
 ## See Example
 
