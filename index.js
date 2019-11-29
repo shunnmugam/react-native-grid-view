@@ -57,7 +57,8 @@ var styles = StyleSheet.create({
     flexDirection : 'row',
     alignItems    : 'center',
     justifyContent: 'center',
-    overflow      : 'hidden'
+    overflow      : 'hidden',
+    width         : '100%'
   }
 });
 
