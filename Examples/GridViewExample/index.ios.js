@@ -14,7 +14,7 @@ import {
   View,
 } from 'react-native';
 
-import GridView from 'react-native-grid-view'
+import GridView from 'react-native-grid-view-component'
 
 var API_KEY = '7waqfqbprs7pajbz28mqf6vz';
 var API_URL = 'http://api.rottentomatoes.com/api/public/v1.0/lists/movies/in_theaters.json';
